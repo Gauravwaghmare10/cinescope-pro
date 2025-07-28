@@ -58,6 +58,7 @@ You can deploy this app for free using Streamlit Cloud:
 
 5.Deploy 🎉
 
-✍️ Author
-Gaurav Waghmare
-📍 LinkedIn
+## ✍️ Author
+
+**Gaurav Waghmare**  
+📍 [LinkedIn](https://www.linkedin.com/in/gaurav-waghmare-2972142b7)
