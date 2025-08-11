@@ -44,6 +44,7 @@ cinescope-pro/
 └── README.md # Project documentation
 
 
+
 ---
 
 ## 🏁 Getting Started
@@ -106,6 +107,7 @@ Easily deploy on **Streamlit Cloud**:
 ---
 
 ## 📜 License
-*License to be added — Recommended: [MIT License](https://choosealicense.com/licenses/mit/)*
+
+📝 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.  
 
 ---
